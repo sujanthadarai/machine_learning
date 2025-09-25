@@ -1,2 +1,5 @@
 # machine_learning 
 ### In this we have k mean algorithm
+``` 
+Now only learn 
+```
